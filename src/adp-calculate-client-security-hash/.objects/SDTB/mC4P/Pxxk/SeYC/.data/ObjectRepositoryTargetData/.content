@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uSzdj6H8FkWsaevyOU0z1g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" CVScreenId="0bd06896-c5f4-4caf-8c9e-f0c579cff8b1" DesignTimeRectangle="334, 659, 607, 42" ElementType="InputBoxPassword" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='password' /&gt;" Guid="050041fd-e0aa-4b0e-b494-8469feb579d4" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="9630ed32e47f94269efede76c7b50331.png" xmlns="">0FdjYKU2lH0GVdZD7ijCKDA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

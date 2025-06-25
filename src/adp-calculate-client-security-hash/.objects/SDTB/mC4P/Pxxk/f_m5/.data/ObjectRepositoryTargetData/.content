@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Pp3Z6IQdwUqsjVasSWIrzQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" CVScreenId="fee05f3a-b7dd-4199-aad1-c2407a6b5b62" CvElementArea="332, 770, 78, 45" CvTextArea="349, 782, 45, 21" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="334, 772, 75, 42" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" Guid="e3e2e80a-c93e-4d76-aa7c-779b21a3f0c8" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="81651981a2d7c98daf64fd79785e7ce2.png" xmlns="">0t5jpTSJ-f0OYUwx6ERqtrg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

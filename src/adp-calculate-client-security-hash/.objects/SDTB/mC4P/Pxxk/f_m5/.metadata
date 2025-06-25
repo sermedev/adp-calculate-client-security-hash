@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click Login",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "f_m5flVmDE-rmfhD1T7swg",
+  "Reference": "f47jVHh3XEqXai59JSGdyA/f_m5flVmDE-rmfhD1T7swg",
+  "ParentRef": "f47jVHh3XEqXai59JSGdyA/Pxxkt5wJKkiS1DGt4QKNgQ",
+  "Created": "2025-06-25T14:00:14.1315241Z",
+  "Updated": "2025-06-25T14:00:14.1315241Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
