@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="C8B9eLSvS0yL8nVBSYQyog" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="emn178.github.io/online-tools/sha1.html" CVScreenId="bd5038c0-d4cc-4510-8d3f-f165dc881605" DesignTimeRectangle="814, 708, 1110, 267" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='output' tag='TEXTAREA' /&gt;" Guid="5d67d98e-45c4-4e79-8844-d5d14a92a140" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='SHA1 - Online Tools' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="4652e7fa92172daeeb6cb3c92c0966f4.png" xmlns="">0vPJM0chVmkq8RNdjtMnXYg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

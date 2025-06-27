@@ -1,0 +1,14 @@
+﻿{
+  "Name": "TEXTAREA newComment",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "dbDcV7CjM0C4hROAbpJzpg",
+  "Reference": "f47jVHh3XEqXai59JSGdyA/dbDcV7CjM0C4hROAbpJzpg",
+  "ParentRef": "f47jVHh3XEqXai59JSGdyA/bXGiIuR6G0if-dQ4MX4Yyw",
+  "Created": "2025-06-26T13:53:19.0595535Z",
+  "Updated": "2025-06-26T13:53:19.0595535Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

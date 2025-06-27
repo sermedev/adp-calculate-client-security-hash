@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="230cI0JEy0qMAfsrqWKd2w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/update/106437934" CVScreenId="a7d1f693-3679-48b0-b984-1ced54426572" DesignTimeRectangle="66, 484, 430, 67" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='newComment' matching:id='fuzzy' fuzzylevel:id='0.0' type='text' /&gt;" Guid="fd8d70c2-214b-4493-8246-76aba9e02f48" ScopeSelectorArgument="&lt;html app='msedge.exe' htmlwindowname='WI-Update' title='ACME System 1' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="ebf4ec270dc563833a8e55edd8fe618f.png" xmlns="">0I8bWhJCCaEe_gTn7FPi3Xg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

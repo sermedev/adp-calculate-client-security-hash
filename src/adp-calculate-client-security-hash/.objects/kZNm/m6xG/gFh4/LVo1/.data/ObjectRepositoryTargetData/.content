@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="t8RdKxFJZkmTbW2O6OcwJw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="emn178.github.io/online-tools/sha1.html" CVScreenId="46962d52-94e8-4dfd-967f-7abdbee95635" DesignTimeRectangle="354, 364, 440, 43" ElementType="Text" FullSelectorArgument="&lt;webctrl class='btn' visibleinnertext='Hash' /&gt;" Guid="54dd2ba6-443d-4c4e-8a12-2065d4f4e219" ScopeSelectorArgument="&lt;html app='msedge.exe' title='SHA1 - Online Tools' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="f3070d08fbe0e40651d042987debab7a.png" xmlns="">0bprbfCyBIkWcO_wGr8-RIA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

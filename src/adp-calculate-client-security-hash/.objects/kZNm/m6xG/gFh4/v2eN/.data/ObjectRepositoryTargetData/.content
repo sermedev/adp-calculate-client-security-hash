@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lfJBdKgtjkevYedicK2jYg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="emn178.github.io/online-tools/sha1.html" CVScreenId="28f453c8-34c2-4271-acc3-d2cab284d3ac" DesignTimeRectangle="814, 344, 1110, 315" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='input' tag='TEXTAREA' /&gt;" Guid="f1f49fe0-4534-41f5-b91f-23a2e9551901" ScopeSelectorArgument="&lt;html app='msedge.exe' title='SHA1 - Online Tools' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="e0a19836a6ff87c427da35fbcc5cf4a5.png" xmlns="">0GCilMAEC5EmFFqZacC5LZQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
